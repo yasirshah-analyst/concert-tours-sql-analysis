@@ -23,7 +23,7 @@ The raw data (sourced from Kaggle) arrives in a messy, inconsistent format — c
 
 1. Clean and standardize the raw dataset using SQL
 2. Answer 5 core business questions about revenue, tours, and artists
-3. Translate the SQL output into insights and recommendations a non-technical stakeholder could act on
+3. Translate the SQL output into insights and recommendations using Power BI, a non-technical stakeholder could act on
 
 ---
 
