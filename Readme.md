@@ -1,7 +1,7 @@
 # 🎤 Female Concert Tours Data Cleaning, Analysis & Visualization
 
 ## 📌 Project Overview
-This project is an end-to-end **SQL Data Cleaning and Business Analysis** using a kaggle dataset.
+This project is an end-to-end **Data Cleaning and Business Analysis** using a kaggle dataset.
 
 The goal is to transform raw, messy data into a clean, structured dataset and extract meaningful business insights such as top-earning artists, revenue trends, and tour performance.
 
